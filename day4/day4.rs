@@ -1,5 +1,4 @@
 use std::fs::read_to_string;
-use regex::Regex;
 use std::env;
 
 fn main() {
