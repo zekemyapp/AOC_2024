@@ -75,8 +75,8 @@ fn main() {
         }
     }
 
-    println!("Resut Part One: {}", result);
-    println!("Resut Part One: {}", result2);
+    println!("Result Part One: {}", result);
+    println!("Result Part One: {}", result2);
 }
 
 fn read_lines(filename: &str) -> Vec<String> {
